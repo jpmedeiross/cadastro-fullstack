@@ -14,6 +14,7 @@ Este projeto é um sistema de cadastro de usuários que inclui tanto front-end q
 - **React**
 - **Node.js**
 - **Express**
+- **Prisma**
 - **MongoDB**
 - **Insomnia**
 
