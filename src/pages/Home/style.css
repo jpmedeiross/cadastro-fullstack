@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+    align-items: center;
+    padding: 100px;
+    flex-direction: column;
+    padding-top: 100px;
+}
